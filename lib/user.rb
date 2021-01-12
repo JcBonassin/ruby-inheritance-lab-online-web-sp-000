@@ -8,5 +8,5 @@ class User
   end
 
   
-  
+
 end
