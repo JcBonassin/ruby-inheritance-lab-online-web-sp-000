@@ -5,6 +5,6 @@ class Student < User
   def initialize
     @@knowledge << self
   end
-  
+
 
 end
